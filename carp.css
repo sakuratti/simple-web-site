@@ -1,0 +1,44 @@
+body {
+    font-size: 25px;
+    background-color: black;
+    color: white;
+}
+
+h1{
+    font-size: 55px;
+    border-bottom: solid 4px blue;
+}
+
+div1 { 
+    color:red;
+}
+
+div2 {
+    color:rgb(187, 187, 8);
+}
+
+
+p {
+        font-size: 35px;
+        font-family:fantasy;
+    }
+    
+div3{
+    font-size:30px;
+}
+
+p2 {
+       color:yellow;
+}
+
+p3 {
+       color:red;
+}
+
+div6{
+    font-size: 35px;
+}
+
+p4{
+    font-size: 55px;
+}
